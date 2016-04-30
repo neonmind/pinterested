@@ -1,6 +1,13 @@
+$navbar-default-bg: #57467B;
+$navbar-default-link-color: white;
+$navbar-default-color: white;
+$navbar-border-radius:0px;
+
+
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
 .center {
     text-align:center;
 }
+
